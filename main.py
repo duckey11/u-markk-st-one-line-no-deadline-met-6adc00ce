@@ -9,8 +9,8 @@ import os
 
 LINE = (
     "I missed the deadline because my coworker Priya borrowed my laptop "
-    "for 12 minutes to check her horoscope, and now my report ends "
-    "mid-sentence with the words 'Mercury is in retrograde, run.'"
+    "for 12 minutes to check her horoscope, so my report ends "
+    "mid-sentence: 'Mercury is in retrograde, run.'"
 )
 
 
